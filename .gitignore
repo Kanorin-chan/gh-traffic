@@ -1,0 +1,8 @@
+# Your traffic history and local builds stay local.
+traffic.db
+traffic.db-journal
+*.exe
+build/
+dist/
+*.spec
+__pycache__/
